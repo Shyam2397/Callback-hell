@@ -1,0 +1,9 @@
+body{
+    background-color: blanchedalmond;
+    margin: 300px;
+}
+#value{
+    color: darkred;
+    font-size: 60px;
+    text-align: center;
+}
